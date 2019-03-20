@@ -1,0 +1,207 @@
+{
+    "diesel": {
+        "American Coach":{
+            "American Dream":{
+                "2019":{},
+                "2018":{}
+            },
+            "American Dream SE":{
+                "2018":{}
+            },
+            "American Eagle":{
+                "2019":{},
+                "2018":{}
+            },
+            "American Eagle Heritage Edition":{
+                "2019":{}
+            },
+            "American Revolution":{
+                "2018":{}
+            },
+            "American Revolution SE":{
+                "2018":{}
+            }
+        },
+        "Dynamax": {
+            "DynaQuest XL":{
+                "2019":{}            
+            },
+            "DX3":{
+                "2019":{}  
+            },
+            "Force HD":{
+                "2019":{}  
+            }
+        },
+        "Entegra": {
+            "Anthem":{
+                "2020":{},
+                "2019":{},
+                "2018":{}
+            },
+            "Aspire":{
+                "2020":{},
+                "2019":{},
+                "2018":{}
+            },
+            "Cornerstone":{
+                "2020":{},
+                "2019":{},
+                "2018":{}
+            },
+            "Insignia":{
+                "2019":{},
+                "2018":{}
+            },
+            "Reatta":{
+                "2020":{}  
+            }        
+        },
+        "Fleetwood": {
+            "Pace Arrow":{
+                "2019":{},
+                "2018":{}
+            },
+            "Pace Arrow LXE":{
+                "2019":{},
+                "2018":{}
+            },
+            "Discovery":{
+                "2019":{},
+                "2018":{}
+            },
+            "Discovery LXE":{
+                "2019":{},
+                "2018":{}
+            }
+        },
+        "Monaco": {
+            "Monaco Signature":{
+                "2019":{},
+                "2018":{}
+            },
+            "Monaco Marquis":{
+                "2019":{},
+                "2018":{}
+            }
+        },
+        "Newmar": {
+            "Dutch Star":{
+                "2019":{},
+                "2018":{}
+            },
+            "Essex":{
+                "2019":{},
+                "2018":{}
+            },
+            "King Aire":{
+                "2019":{},
+                "2018":{}
+            },
+            "London Aire":{
+                "2019":{},
+                "2018":{}
+            },
+            "Mountain Aire":{
+                "2019":{},
+                "2018":{}
+            },
+            "New Aire":{
+                "2019":{},
+                "2018":{}
+            },
+            "Ventana":{
+                "2019":{},
+                "2018":{}
+            },
+            "Ventana LE":{
+                "2019":{},
+                "2018":{}
+            }
+        },
+        "Tiffin": {
+            "Allegro Breeze":{
+                "2019":{}
+            },
+            "Allegro Bus":{
+                "2019":{},
+                "2018":{}
+            },
+            "Allegro Red":{
+                "2019":{},
+                "2018":{}
+            },
+            "Open Road Allegro":{
+                "2019":{},
+                "2018":{}
+            },
+            "Phaeton":{
+                "2019":{},
+                "2018":{}
+            },
+            "Zephyr":{
+                "2019":{}
+            }
+        },
+        "Winnebago": {
+            "Forza":{
+                "2019":{},
+                "2018":{}
+            },
+            "Grand Tour":{
+                "2019":{},
+                "2018":{}
+            },
+            "Horizon":{
+                "2019":{},
+                "2018":{}
+            },
+            "Journey": {
+                "2019":{}
+            },
+            "Tour":{
+                "2019":{}
+            }
+        }
+    },
+    "gas": {
+        "Entegra": {            
+            "Emblem":{
+                "2019":{}
+            },
+            "Vision":{
+                "2019":{}
+            }
+        },
+        "Fleetwood":{
+            "Bounder":{
+                "2019":{}
+            },
+            "Southwind":{
+                "2019":{}
+            }
+        },
+        "Newmar": {
+            "Bay Star":{
+                "2019":{}
+            },
+            "Canyon Star":{
+                "2019":{}
+            }
+        },
+        "Winnebago": {
+            "Adventurer":{
+                "2019":{}
+            },
+            "Sightseer":{
+                "2019":{}
+            },
+            "Sunova":{
+                "2019":{}
+            },
+            "Vista":{
+                "2019":{}
+            }
+        }
+    }
+}
